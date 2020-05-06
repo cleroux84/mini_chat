@@ -1,0 +1,35 @@
+.form-control{
+    width : 500px;
+}
+
+.formS{
+    margin-left: 150px;
+}
+
+.listUser{
+    width: 300px;
+}
+.chat{
+    width: 500px;
+    background-color: black;
+    color: white;
+    height: 100px;
+    padding-left: 20px;
+}
+
+@font-face
+{
+    font-family: 'leadcoat';
+    src: url('fonts/leadcoat.ttf');
+}
+ 
+h4
+{
+   font-family: 'leadcoat';
+}
+
+h1
+{
+    font-family: 'leadcoat';
+    padding-left: 170px;
+ }
