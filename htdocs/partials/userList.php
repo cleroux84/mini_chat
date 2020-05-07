@@ -8,5 +8,8 @@
         <li class="list-group-item"><?php echo $user["nickname"];?></li>
             <?php endforeach;?>
     </ul>
-    <div>
-    <p><?php include 'pdo/addUsers.php'?></p>
+    
+    
+
+
+    

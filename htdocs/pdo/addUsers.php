@@ -32,9 +32,5 @@
                                                 VALUES (?,?,?,?');
         $insertMessageStatement->execute([$userId, $_POST['message'], $ip, $datetime]);
 
-       
-    
-
-    
 }
  

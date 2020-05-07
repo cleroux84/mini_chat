@@ -1,2 +1,0 @@
-$allmsg=$bdd->query('SELECT * FROM messages ORDER BY');
-while ($msg=$allmsg->fetch());
